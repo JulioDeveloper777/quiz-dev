@@ -1,6 +1,8 @@
 # Quiz Dev
 Uma aplicação de quiz interativa construída com Next.js e TypeScript focada em questões de desenvolvimento JavaScript.
 
+![image](https://github.com/user-attachments/assets/be8d99e4-14b0-4c55-a429-96362062dcad)
+
 ## Tecnologias
 - Next.js
 - Tailwind CSS
